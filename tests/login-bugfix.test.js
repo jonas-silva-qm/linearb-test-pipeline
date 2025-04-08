@@ -5,8 +5,6 @@ test('login falha com delay', async () => {
   expect(login('user', 'wrong')).toBe(false);
 });
 
-// Teste proposital com falha
-
 test('falha proposital', () => {
   expect(false).toBe(true);
 });
