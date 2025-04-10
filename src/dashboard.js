@@ -1,1 +1,1 @@
-﻿export function dashboard() { return 'Dashboard Loaded'; }
+﻿export function dashboard() { return 'dashboard feature loaded'; }
