@@ -1,3 +1,1 @@
-export function hello() {
-  return "Hello, LinearB!";
-}
+﻿// simulando conflito
